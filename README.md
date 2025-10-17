@@ -1,7 +1,6 @@
-<img src="https://your-banner-image-link-here" width="100%" alt="Banner" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/ded1f1d6-cab7-41de-aa84-de09200343ba" />
 
-<h1 align="center">Hey there 👋, I'm Rupam Hait</h1>
-<h3 align="center">💻 Coder | 🧠 Problem Solver | 🎨 Designer</h3>
+
 
 ---
 
@@ -14,7 +13,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,c++" />
 </p>
 
 ---
