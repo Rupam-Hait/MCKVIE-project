@@ -45,5 +45,3 @@
 
 ---
 
-### 🖼️ Fun Octocat
-<img align="right" alt="Octocat" width="200" src="https://github.com/Chandansaha2005/Chandansaha2005/blob/main/assets/1759043036683.jpg" />
