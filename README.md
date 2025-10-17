@@ -6,10 +6,9 @@
 ---
 
 ### 🌟 About Me
-- 🎓 2nd Year CSE Student @ [Your College Name]
+- 🎓 2nd Year CSE Student at MCKV Institute of Engineering.
 - 💡 Passionate about **Web Development & AI**
-- 🏆 Winner of [Any coding event, if applicable]
-- ✨ Love to design, code & explore tech
+- ✨ Love to design, code & explore tech.
 
 ---
 
@@ -30,7 +29,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rupamhait&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" />
 </p>
 
 ---
