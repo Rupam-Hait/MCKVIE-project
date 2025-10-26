@@ -18,20 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupamhait&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Rupamhait&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" />
-</p>
-
----
 
 ### 💬 Connect With Me
 <p align="center">
