@@ -25,12 +25,12 @@ int main(){
     printf("\nEnter the no of elements in second polynomial:");
     scanf("%d",&l2);
     printf("\nEnter %d elements:",l2);
-    for(i=0;i<=l2-1;i++){
-        scanf("%d%d",p2[i].cof,p2[i].expo);
+    for(j=0;j<=l2-1;j++){
+        scanf("%d%d",p2[j].cof,p2[j].expo);
     }
-    for(i=0;i<l2-1;i++){
-        printf("%dX^%d+",p2[i].cof,p2[i].expo);
-    }printf("%dX^%d",p2[i].cof,p2[i].expo);
+    for(j=0;j<l2-1;j++){
+        printf("%dX^%d+",p2[j].cof,p2[j].expo);
+    }printf("%dX^%d",p2[j].cof,p2[j].expo);
 
     while(i<l1 && j<l2){
         if(p1[i].expo==p2[j].expo){
@@ -72,4 +72,5 @@ int main(){
     }
 
     return 0;
+
 }
