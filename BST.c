@@ -28,15 +28,15 @@ void Preorder(Node *root){
 		return;
 	}
 	printf("%d ",root->val);
-	Inorder(root->left);
-	Inorder(root->right);
+	Preorder(root->left);
+	Preorder(root->right);
 }
 void Postorder(Node *root){
 	if(root==NULL){
 		return;
 	}
-	Inorder(root->left);
-	Inorder(root->right);
+	Postorder(root->left);
+	Postorder(root->right);
 	printf("%d ",root->val);
 }
 void main(){
@@ -77,4 +77,5 @@ void main(){
 		
 		}
 		
+
 	}
